@@ -24,3 +24,6 @@ Hasil :
 menampilkan gambar di atas layout dan konfigurasi di pubspec.yaml.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/19768fc0-cc0d-4639-a165-a025d3c02216" />
 
+
+
+
